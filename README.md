@@ -19,7 +19,7 @@ This is a personal portfolio website built using:
 1. **Clone the repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/TestGithubByHusnain/Husnain-Ali-Portfolio.git
 Install dependencies:
 
 Bash
